@@ -1,0 +1,1246 @@
+2024-11-20 11:48:49,938 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-20 11:48:49,938 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-20 11:48:49,939 - INFO -  * Restarting with stat
+2024-11-20 11:48:50,157 - WARNING -  * Debugger is active!
+2024-11-20 11:48:50,158 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 11:49:20,603 - INFO - 127.0.0.1 - - [20/Nov/2024 11:49:20] "[33mPOST /crearpdf HTTP/1.1[0m" 404 -
+2024-11-20 11:49:58,921 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 11:49:58,969 - INFO -  * Restarting with stat
+2024-11-20 11:52:59,677 - WARNING -  * Debugger is active!
+2024-11-20 11:52:59,679 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 11:59:31,885 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 11:59:32,189 - WARNING -  * Debugger is active!
+2024-11-20 11:59:32,191 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 11:59:36,045 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 11:59:36,098 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 11:59:36,098 - DEBUG - STREAM b'sRGB' 41 1
+2024-11-20 11:59:36,098 - DEBUG - STREAM b'gAMA' 54 4
+2024-11-20 11:59:36,098 - DEBUG - STREAM b'pHYs' 70 9
+2024-11-20 11:59:36,098 - DEBUG - STREAM b'IDAT' 91 40161
+2024-11-20 11:59:36,125 - INFO - 127.0.0.1 - - [20/Nov/2024 11:59:36] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 12:00:04,584 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 12:00:04,870 - WARNING -  * Debugger is active!
+2024-11-20 12:00:04,872 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 12:00:07,360 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 12:00:07,372 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:00:07,372 - DEBUG - STREAM b'sRGB' 41 1
+2024-11-20 12:00:07,372 - DEBUG - STREAM b'gAMA' 54 4
+2024-11-20 12:00:07,372 - DEBUG - STREAM b'pHYs' 70 9
+2024-11-20 12:00:07,372 - DEBUG - STREAM b'IDAT' 91 40161
+2024-11-20 12:00:07,396 - INFO - 127.0.0.1 - - [20/Nov/2024 12:00:07] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 12:00:27,113 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 12:00:27,416 - WARNING -  * Debugger is active!
+2024-11-20 12:00:27,418 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 12:00:31,407 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 12:00:31,418 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:00:31,418 - DEBUG - STREAM b'sRGB' 41 1
+2024-11-20 12:00:31,418 - DEBUG - STREAM b'gAMA' 54 4
+2024-11-20 12:00:31,418 - DEBUG - STREAM b'pHYs' 70 9
+2024-11-20 12:00:31,418 - DEBUG - STREAM b'IDAT' 91 40161
+2024-11-20 12:00:31,441 - INFO - 127.0.0.1 - - [20/Nov/2024 12:00:31] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 12:00:47,625 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 12:00:47,920 - WARNING -  * Debugger is active!
+2024-11-20 12:00:47,925 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 12:00:51,956 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 12:00:51,969 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:00:51,969 - DEBUG - STREAM b'sRGB' 41 1
+2024-11-20 12:00:51,969 - DEBUG - STREAM b'gAMA' 54 4
+2024-11-20 12:00:51,970 - DEBUG - STREAM b'pHYs' 70 9
+2024-11-20 12:00:51,970 - DEBUG - STREAM b'IDAT' 91 40161
+2024-11-20 12:00:51,991 - INFO - 127.0.0.1 - - [20/Nov/2024 12:00:51] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 12:09:05,564 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 12:09:05,876 - WARNING -  * Debugger is active!
+2024-11-20 12:09:05,878 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 12:09:09,004 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 12:09:09,019 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:09:09,020 - DEBUG - STREAM b'sRGB' 41 1
+2024-11-20 12:09:09,020 - DEBUG - STREAM b'gAMA' 54 4
+2024-11-20 12:09:09,020 - DEBUG - STREAM b'pHYs' 70 9
+2024-11-20 12:09:09,020 - DEBUG - STREAM b'IDAT' 91 40161
+2024-11-20 12:09:09,020 - INFO - 127.0.0.1 - - [20/Nov/2024 12:09:09] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 12:09:53,460 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 12:09:53,765 - WARNING -  * Debugger is active!
+2024-11-20 12:09:53,767 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 12:09:55,951 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 12:09:55,961 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:09:55,961 - DEBUG - STREAM b'sRGB' 41 1
+2024-11-20 12:09:55,961 - DEBUG - STREAM b'gAMA' 54 4
+2024-11-20 12:09:55,961 - DEBUG - STREAM b'pHYs' 70 9
+2024-11-20 12:09:55,961 - DEBUG - STREAM b'IDAT' 91 40161
+2024-11-20 12:09:55,968 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:09:55,968 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 12:09:55,968 - DEBUG - STREAM b'IDAT' 78 648
+2024-11-20 12:09:55,969 - INFO - 127.0.0.1 - - [20/Nov/2024 12:09:55] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 12:10:01,863 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 12:10:02,148 - WARNING -  * Debugger is active!
+2024-11-20 12:10:02,150 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 12:11:19,981 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 12:11:20,272 - WARNING -  * Debugger is active!
+2024-11-20 12:11:20,274 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 12:11:23,933 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 12:11:23,944 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:11:23,944 - DEBUG - STREAM b'sRGB' 41 1
+2024-11-20 12:11:23,944 - DEBUG - STREAM b'gAMA' 54 4
+2024-11-20 12:11:23,944 - DEBUG - STREAM b'pHYs' 70 9
+2024-11-20 12:11:23,944 - DEBUG - STREAM b'IDAT' 91 40161
+2024-11-20 12:11:23,945 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:11:23,945 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 12:11:23,945 - DEBUG - STREAM b'IDAT' 78 648
+2024-11-20 12:11:23,946 - INFO - 127.0.0.1 - - [20/Nov/2024 12:11:23] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 12:12:22,000 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 12:12:22,311 - WARNING -  * Debugger is active!
+2024-11-20 12:12:22,312 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 12:12:25,547 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 12:12:25,569 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:12:25,569 - DEBUG - STREAM b'sRGB' 41 1
+2024-11-20 12:12:25,570 - DEBUG - STREAM b'gAMA' 54 4
+2024-11-20 12:12:25,570 - DEBUG - STREAM b'pHYs' 70 9
+2024-11-20 12:12:25,570 - DEBUG - STREAM b'IDAT' 91 40161
+2024-11-20 12:12:25,570 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:12:25,570 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 12:12:25,570 - DEBUG - STREAM b'IDAT' 78 648
+2024-11-20 12:12:25,590 - INFO - 127.0.0.1 - - [20/Nov/2024 12:12:25] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 12:12:58,734 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 12:12:59,016 - WARNING -  * Debugger is active!
+2024-11-20 12:12:59,018 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 12:13:00,285 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 12:13:00,298 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:13:00,298 - DEBUG - STREAM b'sRGB' 41 1
+2024-11-20 12:13:00,298 - DEBUG - STREAM b'gAMA' 54 4
+2024-11-20 12:13:00,298 - DEBUG - STREAM b'pHYs' 70 9
+2024-11-20 12:13:00,298 - DEBUG - STREAM b'IDAT' 91 40161
+2024-11-20 12:13:00,299 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:13:00,299 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 12:13:00,299 - DEBUG - STREAM b'IDAT' 78 648
+2024-11-20 12:13:00,319 - INFO - 127.0.0.1 - - [20/Nov/2024 12:13:00] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 12:14:11,849 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 12:14:12,170 - WARNING -  * Debugger is active!
+2024-11-20 12:14:12,171 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 12:14:15,023 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 12:14:15,035 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:14:15,035 - DEBUG - STREAM b'sRGB' 41 1
+2024-11-20 12:14:15,035 - DEBUG - STREAM b'gAMA' 54 4
+2024-11-20 12:14:15,035 - DEBUG - STREAM b'pHYs' 70 9
+2024-11-20 12:14:15,035 - DEBUG - STREAM b'IDAT' 91 40161
+2024-11-20 12:14:15,035 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:14:15,035 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 12:14:15,035 - DEBUG - STREAM b'IDAT' 78 648
+2024-11-20 12:14:15,055 - INFO - 127.0.0.1 - - [20/Nov/2024 12:14:15] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 12:17:47,796 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 12:17:48,093 - WARNING -  * Debugger is active!
+2024-11-20 12:17:48,094 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 12:17:50,298 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 12:17:50,316 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:17:50,316 - DEBUG - STREAM b'sRGB' 41 1
+2024-11-20 12:17:50,316 - DEBUG - STREAM b'gAMA' 54 4
+2024-11-20 12:17:50,316 - DEBUG - STREAM b'pHYs' 70 9
+2024-11-20 12:17:50,316 - DEBUG - STREAM b'IDAT' 91 40161
+2024-11-20 12:17:50,316 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:17:50,316 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 12:17:50,317 - DEBUG - STREAM b'IDAT' 78 648
+2024-11-20 12:17:50,335 - INFO - 127.0.0.1 - - [20/Nov/2024 12:17:50] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 12:26:41,074 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 12:26:41,386 - WARNING -  * Debugger is active!
+2024-11-20 12:26:41,387 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 12:26:44,199 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 12:26:44,213 - INFO - 127.0.0.1 - - [20/Nov/2024 12:26:44] "[35m[1mPOST /crearImagen HTTP/1.1[0m" 500 -
+2024-11-20 12:27:15,763 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 12:27:16,077 - WARNING -  * Debugger is active!
+2024-11-20 12:27:16,079 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 12:27:18,452 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 12:27:18,464 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:27:18,464 - DEBUG - STREAM b'sRGB' 41 1
+2024-11-20 12:27:18,464 - DEBUG - STREAM b'gAMA' 54 4
+2024-11-20 12:27:18,464 - DEBUG - STREAM b'pHYs' 70 9
+2024-11-20 12:27:18,464 - DEBUG - STREAM b'IDAT' 91 40161
+2024-11-20 12:27:18,464 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:27:18,465 - DEBUG - STREAM b'sRGB' 41 1
+2024-11-20 12:27:18,465 - DEBUG - STREAM b'gAMA' 54 4
+2024-11-20 12:27:18,465 - DEBUG - STREAM b'pHYs' 70 9
+2024-11-20 12:27:18,465 - DEBUG - STREAM b'IDAT' 91 40161
+2024-11-20 12:27:18,487 - INFO - 127.0.0.1 - - [20/Nov/2024 12:27:18] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 12:32:55,032 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 12:32:55,343 - WARNING -  * Debugger is active!
+2024-11-20 12:32:55,344 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 12:32:57,591 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 12:32:57,596 - INFO - 127.0.0.1 - - [20/Nov/2024 12:32:57] "[35m[1mPOST /crearImagen HTTP/1.1[0m" 500 -
+2024-11-20 12:33:29,681 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 12:33:30,012 - WARNING -  * Debugger is active!
+2024-11-20 12:33:30,013 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 12:33:32,288 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 12:33:32,304 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:33:32,304 - DEBUG - STREAM b'sRGB' 41 1
+2024-11-20 12:33:32,304 - DEBUG - STREAM b'gAMA' 54 4
+2024-11-20 12:33:32,304 - DEBUG - STREAM b'pHYs' 70 9
+2024-11-20 12:33:32,304 - DEBUG - STREAM b'IDAT' 91 40161
+2024-11-20 12:33:32,338 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:33:32,338 - DEBUG - STREAM b'IDAT' 41 41857
+2024-11-20 12:33:32,340 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:33:32,340 - DEBUG - STREAM b'IDAT' 41 41857
+2024-11-20 12:33:32,360 - INFO - 127.0.0.1 - - [20/Nov/2024 12:33:32] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 12:34:15,382 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 12:34:15,382 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:34:15,383 - DEBUG - STREAM b'sRGB' 41 1
+2024-11-20 12:34:15,383 - DEBUG - STREAM b'gAMA' 54 4
+2024-11-20 12:34:15,383 - DEBUG - STREAM b'pHYs' 70 9
+2024-11-20 12:34:15,383 - DEBUG - STREAM b'IDAT' 91 40161
+2024-11-20 12:34:15,423 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:34:15,423 - DEBUG - STREAM b'IDAT' 41 41857
+2024-11-20 12:34:15,433 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:34:15,433 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 12:34:15,433 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 12:34:15,478 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:34:15,478 - DEBUG - STREAM b'IDAT' 41 44873
+2024-11-20 12:34:15,517 - INFO - 127.0.0.1 - - [20/Nov/2024 12:34:15] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 12:34:46,883 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 12:34:47,206 - WARNING -  * Debugger is active!
+2024-11-20 12:34:47,208 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 12:34:50,385 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 12:34:50,395 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:34:50,395 - DEBUG - STREAM b'sRGB' 41 1
+2024-11-20 12:34:50,395 - DEBUG - STREAM b'gAMA' 54 4
+2024-11-20 12:34:50,395 - DEBUG - STREAM b'pHYs' 70 9
+2024-11-20 12:34:50,395 - DEBUG - STREAM b'IDAT' 91 40161
+2024-11-20 12:34:50,418 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:34:50,419 - DEBUG - STREAM b'IDAT' 41 41857
+2024-11-20 12:34:50,419 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:34:50,419 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 12:34:50,419 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 12:34:50,446 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:34:50,446 - DEBUG - STREAM b'IDAT' 41 47693
+2024-11-20 12:34:50,469 - INFO - 127.0.0.1 - - [20/Nov/2024 12:34:50] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 12:36:28,337 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 12:36:28,647 - WARNING -  * Debugger is active!
+2024-11-20 12:36:28,649 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 12:36:31,827 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 12:36:31,839 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:36:31,839 - DEBUG - STREAM b'sRGB' 41 1
+2024-11-20 12:36:31,839 - DEBUG - STREAM b'gAMA' 54 4
+2024-11-20 12:36:31,839 - DEBUG - STREAM b'pHYs' 70 9
+2024-11-20 12:36:31,839 - DEBUG - STREAM b'IDAT' 91 40161
+2024-11-20 12:36:31,866 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:36:31,866 - DEBUG - STREAM b'IDAT' 41 41857
+2024-11-20 12:36:31,866 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:36:31,866 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 12:36:31,866 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 12:36:31,867 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:36:31,867 - DEBUG - STREAM b'IDAT' 41 41857
+2024-11-20 12:36:31,888 - INFO - 127.0.0.1 - - [20/Nov/2024 12:36:31] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 12:37:19,221 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 12:37:19,556 - WARNING -  * Debugger is active!
+2024-11-20 12:37:19,558 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 12:37:21,195 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 12:37:21,205 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:37:21,205 - DEBUG - STREAM b'sRGB' 41 1
+2024-11-20 12:37:21,205 - DEBUG - STREAM b'gAMA' 54 4
+2024-11-20 12:37:21,205 - DEBUG - STREAM b'pHYs' 70 9
+2024-11-20 12:37:21,205 - DEBUG - STREAM b'IDAT' 91 40161
+2024-11-20 12:37:21,233 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:37:21,234 - DEBUG - STREAM b'IDAT' 41 41857
+2024-11-20 12:37:21,234 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:37:21,234 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 12:37:21,234 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 12:37:21,258 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:37:21,258 - DEBUG - STREAM b'IDAT' 41 45074
+2024-11-20 12:37:21,281 - INFO - 127.0.0.1 - - [20/Nov/2024 12:37:21] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 12:44:28,883 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 12:44:29,198 - WARNING -  * Debugger is active!
+2024-11-20 12:44:29,200 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 12:44:30,862 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 12:44:30,880 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:44:30,880 - DEBUG - STREAM b'sRGB' 41 1
+2024-11-20 12:44:30,880 - DEBUG - STREAM b'gAMA' 54 4
+2024-11-20 12:44:30,880 - DEBUG - STREAM b'pHYs' 70 9
+2024-11-20 12:44:30,880 - DEBUG - STREAM b'IDAT' 91 40161
+2024-11-20 12:44:30,908 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:44:30,908 - DEBUG - STREAM b'IDAT' 41 41857
+2024-11-20 12:44:30,909 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:44:30,909 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 12:44:30,909 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 12:44:30,937 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:44:30,937 - DEBUG - STREAM b'IDAT' 41 42323
+2024-11-20 12:44:30,959 - INFO - 127.0.0.1 - - [20/Nov/2024 12:44:30] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 12:45:54,187 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 12:45:54,507 - WARNING -  * Debugger is active!
+2024-11-20 12:45:54,508 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 12:45:57,773 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 12:45:57,784 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:45:57,785 - DEBUG - STREAM b'sRGB' 41 1
+2024-11-20 12:45:57,785 - DEBUG - STREAM b'gAMA' 54 4
+2024-11-20 12:45:57,785 - DEBUG - STREAM b'pHYs' 70 9
+2024-11-20 12:45:57,785 - DEBUG - STREAM b'IDAT' 91 40161
+2024-11-20 12:45:57,811 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:45:57,811 - DEBUG - STREAM b'IDAT' 41 41857
+2024-11-20 12:45:57,815 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:45:57,815 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 12:45:57,815 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 12:45:57,832 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:45:57,832 - DEBUG - STREAM b'IDAT' 41 38843
+2024-11-20 12:45:57,850 - INFO - 127.0.0.1 - - [20/Nov/2024 12:45:57] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 12:47:22,528 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 12:47:22,832 - WARNING -  * Debugger is active!
+2024-11-20 12:47:22,833 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 12:47:25,170 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 12:47:25,180 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:47:25,180 - DEBUG - STREAM b'sRGB' 41 1
+2024-11-20 12:47:25,180 - DEBUG - STREAM b'gAMA' 54 4
+2024-11-20 12:47:25,180 - DEBUG - STREAM b'pHYs' 70 9
+2024-11-20 12:47:25,180 - DEBUG - STREAM b'IDAT' 91 40161
+2024-11-20 12:47:25,207 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:47:25,207 - DEBUG - STREAM b'IDAT' 41 41857
+2024-11-20 12:47:25,210 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:47:25,210 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 12:47:25,210 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 12:47:25,226 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:47:25,227 - DEBUG - STREAM b'IDAT' 41 38883
+2024-11-20 12:47:25,243 - INFO - 127.0.0.1 - - [20/Nov/2024 12:47:25] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 12:47:46,091 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 12:47:46,407 - WARNING -  * Debugger is active!
+2024-11-20 12:47:46,409 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 12:47:49,098 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 12:47:49,108 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:47:49,108 - DEBUG - STREAM b'sRGB' 41 1
+2024-11-20 12:47:49,108 - DEBUG - STREAM b'gAMA' 54 4
+2024-11-20 12:47:49,108 - DEBUG - STREAM b'pHYs' 70 9
+2024-11-20 12:47:49,108 - DEBUG - STREAM b'IDAT' 91 40161
+2024-11-20 12:47:49,142 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:47:49,142 - DEBUG - STREAM b'IDAT' 41 41857
+2024-11-20 12:47:49,147 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:47:49,147 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 12:47:49,147 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 12:47:49,168 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:47:49,168 - DEBUG - STREAM b'IDAT' 41 38924
+2024-11-20 12:47:49,186 - INFO - 127.0.0.1 - - [20/Nov/2024 12:47:49] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 12:48:06,643 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 12:48:06,951 - WARNING -  * Debugger is active!
+2024-11-20 12:48:06,953 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 12:48:12,046 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 12:48:12,059 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:48:12,059 - DEBUG - STREAM b'sRGB' 41 1
+2024-11-20 12:48:12,059 - DEBUG - STREAM b'gAMA' 54 4
+2024-11-20 12:48:12,059 - DEBUG - STREAM b'pHYs' 70 9
+2024-11-20 12:48:12,059 - DEBUG - STREAM b'IDAT' 91 40161
+2024-11-20 12:48:12,082 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:48:12,082 - DEBUG - STREAM b'IDAT' 41 41857
+2024-11-20 12:48:12,086 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:48:12,086 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 12:48:12,086 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 12:48:12,108 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:48:12,108 - DEBUG - STREAM b'IDAT' 41 39005
+2024-11-20 12:48:12,126 - INFO - 127.0.0.1 - - [20/Nov/2024 12:48:12] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 12:48:35,280 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 12:48:35,606 - WARNING -  * Debugger is active!
+2024-11-20 12:48:35,608 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 12:48:40,482 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 12:48:40,496 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:48:40,496 - DEBUG - STREAM b'sRGB' 41 1
+2024-11-20 12:48:40,496 - DEBUG - STREAM b'gAMA' 54 4
+2024-11-20 12:48:40,496 - DEBUG - STREAM b'pHYs' 70 9
+2024-11-20 12:48:40,496 - DEBUG - STREAM b'IDAT' 91 40161
+2024-11-20 12:48:40,519 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:48:40,519 - DEBUG - STREAM b'IDAT' 41 41857
+2024-11-20 12:48:40,524 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:48:40,524 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 12:48:40,524 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 12:48:40,545 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:48:40,545 - DEBUG - STREAM b'IDAT' 41 39246
+2024-11-20 12:48:40,564 - INFO - 127.0.0.1 - - [20/Nov/2024 12:48:40] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 12:49:26,185 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 12:49:26,502 - WARNING -  * Debugger is active!
+2024-11-20 12:49:26,504 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 12:49:32,364 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 12:49:32,375 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:49:32,375 - DEBUG - STREAM b'sRGB' 41 1
+2024-11-20 12:49:32,375 - DEBUG - STREAM b'gAMA' 54 4
+2024-11-20 12:49:32,375 - DEBUG - STREAM b'pHYs' 70 9
+2024-11-20 12:49:32,375 - DEBUG - STREAM b'IDAT' 91 40161
+2024-11-20 12:49:32,396 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:49:32,396 - DEBUG - STREAM b'IDAT' 41 41857
+2024-11-20 12:49:32,400 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:49:32,400 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 12:49:32,400 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 12:49:32,419 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:49:32,419 - DEBUG - STREAM b'IDAT' 41 39246
+2024-11-20 12:49:32,437 - INFO - 127.0.0.1 - - [20/Nov/2024 12:49:32] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 12:49:56,903 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 12:49:56,903 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:49:56,903 - DEBUG - STREAM b'sRGB' 41 1
+2024-11-20 12:49:56,903 - DEBUG - STREAM b'gAMA' 54 4
+2024-11-20 12:49:56,903 - DEBUG - STREAM b'pHYs' 70 9
+2024-11-20 12:49:56,903 - DEBUG - STREAM b'IDAT' 91 40161
+2024-11-20 12:49:56,937 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:49:56,937 - DEBUG - STREAM b'IDAT' 41 41857
+2024-11-20 12:49:56,941 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:49:56,941 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 12:49:56,941 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 12:49:56,965 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:49:56,965 - DEBUG - STREAM b'IDAT' 41 39246
+2024-11-20 12:49:56,984 - INFO - 127.0.0.1 - - [20/Nov/2024 12:49:56] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 12:50:41,320 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 12:50:41,609 - WARNING -  * Debugger is active!
+2024-11-20 12:50:41,610 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 12:50:43,287 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 12:50:43,302 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:50:43,302 - DEBUG - STREAM b'sRGB' 41 1
+2024-11-20 12:50:43,302 - DEBUG - STREAM b'gAMA' 54 4
+2024-11-20 12:50:43,302 - DEBUG - STREAM b'pHYs' 70 9
+2024-11-20 12:50:43,302 - DEBUG - STREAM b'IDAT' 91 40161
+2024-11-20 12:50:43,327 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:50:43,328 - DEBUG - STREAM b'IDAT' 41 41857
+2024-11-20 12:50:43,333 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:50:43,333 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 12:50:43,333 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 12:50:43,356 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:50:43,356 - DEBUG - STREAM b'IDAT' 41 39246
+2024-11-20 12:50:43,374 - INFO - 127.0.0.1 - - [20/Nov/2024 12:50:43] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 12:51:49,403 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 12:51:49,692 - WARNING -  * Debugger is active!
+2024-11-20 12:51:49,694 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 12:51:51,603 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 12:51:51,613 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:51:51,613 - DEBUG - STREAM b'sRGB' 41 1
+2024-11-20 12:51:51,613 - DEBUG - STREAM b'gAMA' 54 4
+2024-11-20 12:51:51,613 - DEBUG - STREAM b'pHYs' 70 9
+2024-11-20 12:51:51,613 - DEBUG - STREAM b'IDAT' 91 40161
+2024-11-20 12:51:51,641 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:51:51,642 - DEBUG - STREAM b'IDAT' 41 41857
+2024-11-20 12:51:51,647 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:51:51,647 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 12:51:51,647 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 12:51:51,670 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:51:51,670 - DEBUG - STREAM b'IDAT' 41 38843
+2024-11-20 12:51:51,688 - INFO - 127.0.0.1 - - [20/Nov/2024 12:51:51] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 12:57:03,019 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 12:57:03,020 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:57:03,020 - DEBUG - STREAM b'sRGB' 41 1
+2024-11-20 12:57:03,020 - DEBUG - STREAM b'gAMA' 54 4
+2024-11-20 12:57:03,020 - DEBUG - STREAM b'pHYs' 70 9
+2024-11-20 12:57:03,021 - DEBUG - STREAM b'IDAT' 91 40161
+2024-11-20 12:57:03,050 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:57:03,050 - DEBUG - STREAM b'IDAT' 41 41857
+2024-11-20 12:57:03,056 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:57:03,056 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 12:57:03,056 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 12:57:03,077 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:57:03,077 - DEBUG - STREAM b'IDAT' 41 38843
+2024-11-20 12:57:03,094 - INFO - 127.0.0.1 - - [20/Nov/2024 12:57:03] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 12:57:40,013 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 12:57:40,321 - WARNING -  * Debugger is active!
+2024-11-20 12:57:40,322 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 12:57:42,216 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 12:57:42,246 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 12:57:42,247 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 12:57:42,247 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 12:57:42,263 - INFO - 127.0.0.1 - - [20/Nov/2024 12:57:42] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 13:00:09,102 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 13:00:09,443 - WARNING -  * Debugger is active!
+2024-11-20 13:00:09,445 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 13:00:10,672 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 13:00:10,703 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 13:00:10,703 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 13:00:10,703 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 13:00:10,720 - INFO - 127.0.0.1 - - [20/Nov/2024 13:00:10] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 13:00:24,619 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 13:00:24,937 - WARNING -  * Debugger is active!
+2024-11-20 13:00:24,939 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 13:00:26,056 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 13:00:26,088 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 13:00:26,089 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 13:00:26,089 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 13:00:26,106 - INFO - 127.0.0.1 - - [20/Nov/2024 13:00:26] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 13:31:21,010 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 13:31:21,543 - WARNING -  * Debugger is active!
+2024-11-20 13:31:21,544 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 13:31:23,925 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 13:31:24,008 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 13:31:24,008 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 13:31:24,008 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 13:31:24,023 - INFO - 127.0.0.1 - - [20/Nov/2024 13:31:24] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 13:31:50,918 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 13:31:51,213 - WARNING -  * Debugger is active!
+2024-11-20 13:31:51,214 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 13:31:53,479 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 13:31:53,510 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 13:31:53,510 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 13:31:53,510 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 13:31:53,528 - INFO - 127.0.0.1 - - [20/Nov/2024 13:31:53] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 13:34:34,091 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 13:34:34,457 - WARNING -  * Debugger is active!
+2024-11-20 13:34:34,459 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 13:34:35,619 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 13:34:35,655 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 13:34:35,656 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 13:34:35,656 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 13:34:35,710 - INFO - 127.0.0.1 - - [20/Nov/2024 13:34:35] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 13:45:12,792 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 13:45:13,091 - WARNING -  * Debugger is active!
+2024-11-20 13:45:13,093 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 13:45:15,381 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 13:45:15,436 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 13:45:15,436 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 13:45:15,436 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 13:45:15,476 - INFO - 127.0.0.1 - - [20/Nov/2024 13:45:15] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 13:48:50,577 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 13:48:50,922 - WARNING -  * Debugger is active!
+2024-11-20 13:48:50,924 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 13:48:52,708 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 13:48:52,772 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 13:48:52,772 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 13:48:52,772 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 13:48:52,836 - INFO - 127.0.0.1 - - [20/Nov/2024 13:48:52] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 13:56:13,103 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 13:56:13,429 - WARNING -  * Debugger is active!
+2024-11-20 13:56:13,430 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 13:56:17,604 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 13:56:17,660 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 13:56:17,660 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 13:56:17,660 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 13:56:17,764 - INFO - 127.0.0.1 - - [20/Nov/2024 13:56:17] "[35m[1mPOST /crearImagen HTTP/1.1[0m" 500 -
+2024-11-20 13:56:33,646 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 13:56:33,966 - WARNING -  * Debugger is active!
+2024-11-20 13:56:33,969 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 13:56:35,932 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 13:56:35,977 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 13:56:35,977 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 13:56:35,977 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 13:56:36,092 - INFO - 127.0.0.1 - - [20/Nov/2024 13:56:36] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 13:56:57,253 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 13:56:57,552 - WARNING -  * Debugger is active!
+2024-11-20 13:56:57,554 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 13:56:59,365 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 13:56:59,413 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 13:56:59,413 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 13:56:59,413 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 13:56:59,536 - INFO - 127.0.0.1 - - [20/Nov/2024 13:56:59] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 13:59:44,348 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 13:59:44,665 - WARNING -  * Debugger is active!
+2024-11-20 13:59:44,666 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 14:00:26,113 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 14:00:26,413 - WARNING -  * Debugger is active!
+2024-11-20 14:00:26,414 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 14:00:28,930 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 14:00:28,973 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:00:28,973 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 14:00:28,973 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 14:00:29,047 - INFO - 127.0.0.1 - - [20/Nov/2024 14:00:29] "[35m[1mPOST /crearImagen HTTP/1.1[0m" 500 -
+2024-11-20 14:02:36,859 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 14:02:37,188 - WARNING -  * Debugger is active!
+2024-11-20 14:02:37,189 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 14:02:38,947 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 14:02:38,997 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:02:38,997 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 14:02:38,998 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 14:02:39,071 - INFO - 127.0.0.1 - - [20/Nov/2024 14:02:39] "[35m[1mPOST /crearImagen HTTP/1.1[0m" 500 -
+2024-11-20 14:02:55,408 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 14:02:55,733 - WARNING -  * Debugger is active!
+2024-11-20 14:02:55,734 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 14:02:57,478 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 14:02:57,516 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:02:57,516 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 14:02:57,516 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 14:02:57,677 - INFO - 127.0.0.1 - - [20/Nov/2024 14:02:57] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 14:03:23,035 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 14:03:23,346 - WARNING -  * Debugger is active!
+2024-11-20 14:03:23,347 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 14:03:30,799 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 14:03:30,846 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:03:30,846 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 14:03:30,846 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 14:03:30,999 - INFO - 127.0.0.1 - - [20/Nov/2024 14:03:30] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 14:05:18,627 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 14:05:18,934 - WARNING -  * Debugger is active!
+2024-11-20 14:05:18,935 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 14:05:21,580 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 14:05:21,626 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:05:21,627 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 14:05:21,627 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 14:05:21,795 - INFO - 127.0.0.1 - - [20/Nov/2024 14:05:21] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 14:07:54,825 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 14:07:55,099 - WARNING -  * Debugger is active!
+2024-11-20 14:07:55,101 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 14:07:56,802 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 14:07:56,850 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:07:56,850 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 14:07:56,850 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 14:07:57,039 - INFO - 127.0.0.1 - - [20/Nov/2024 14:07:57] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 14:10:19,792 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 14:10:20,118 - WARNING -  * Debugger is active!
+2024-11-20 14:10:20,119 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 14:10:24,750 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 14:10:24,798 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:10:24,798 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 14:10:24,798 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 14:10:25,162 - INFO - 127.0.0.1 - - [20/Nov/2024 14:10:25] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 14:11:12,739 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 14:11:13,047 - WARNING -  * Debugger is active!
+2024-11-20 14:11:13,050 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 14:11:16,597 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 14:11:16,644 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:11:16,644 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 14:11:16,644 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 14:11:17,012 - INFO - 127.0.0.1 - - [20/Nov/2024 14:11:17] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 14:11:59,619 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 14:11:59,916 - WARNING -  * Debugger is active!
+2024-11-20 14:11:59,917 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 14:12:04,945 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 14:12:04,996 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:12:04,996 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 14:12:04,996 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 14:12:05,334 - INFO - 127.0.0.1 - - [20/Nov/2024 14:12:05] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 14:22:52,285 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 14:22:52,622 - WARNING -  * Debugger is active!
+2024-11-20 14:22:52,624 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 14:22:54,121 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 14:22:54,162 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:22:54,162 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 14:22:54,162 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 14:22:54,293 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:22:54,293 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:22:54,293 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:22:54,354 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:22:54,355 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:22:54,355 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:22:54,410 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:22:54,410 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:22:54,410 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:22:54,555 - INFO - 127.0.0.1 - - [20/Nov/2024 14:22:54] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 14:23:31,066 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 14:23:31,387 - WARNING -  * Debugger is active!
+2024-11-20 14:23:31,389 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 14:23:32,855 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 14:23:32,898 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:23:32,898 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 14:23:32,898 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 14:23:33,011 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:23:33,011 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:23:33,011 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:23:33,091 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:23:33,092 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:23:33,092 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:23:33,155 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:23:33,156 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:23:33,156 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:23:33,315 - INFO - 127.0.0.1 - - [20/Nov/2024 14:23:33] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 14:23:44,542 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 14:23:44,823 - WARNING -  * Debugger is active!
+2024-11-20 14:23:44,824 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 14:26:15,601 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 14:26:15,927 - WARNING -  * Debugger is active!
+2024-11-20 14:26:15,929 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 14:26:18,045 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 14:26:18,095 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:26:18,095 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 14:26:18,095 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 14:26:18,217 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:26:18,217 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:26:18,217 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:26:18,270 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:26:18,270 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:26:18,270 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:26:18,322 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:26:18,323 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:26:18,323 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:26:18,453 - INFO - 127.0.0.1 - - [20/Nov/2024 14:26:18] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 14:28:00,165 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 14:28:00,468 - WARNING -  * Debugger is active!
+2024-11-20 14:28:00,469 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 14:28:11,967 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 14:28:12,016 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:28:12,016 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 14:28:12,016 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 14:28:12,144 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:28:12,144 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:28:12,144 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:28:12,213 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:28:12,213 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:28:12,213 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:28:12,282 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:28:12,282 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:28:12,282 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:28:12,440 - INFO - 127.0.0.1 - - [20/Nov/2024 14:28:12] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 14:28:54,118 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 14:28:54,426 - WARNING -  * Debugger is active!
+2024-11-20 14:28:54,428 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 14:28:56,161 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 14:28:56,208 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:28:56,209 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 14:28:56,209 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 14:28:56,339 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:28:56,339 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:28:56,339 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:28:56,393 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:28:56,393 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:28:56,393 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:28:56,452 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:28:56,452 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:28:56,452 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:28:56,581 - INFO - 127.0.0.1 - - [20/Nov/2024 14:28:56] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 14:29:22,750 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 14:29:23,042 - WARNING -  * Debugger is active!
+2024-11-20 14:29:23,044 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 14:29:26,289 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 14:29:26,338 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:29:26,338 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 14:29:26,338 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 14:29:26,455 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:29:26,455 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:29:26,455 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:29:26,516 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:29:26,516 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:29:26,516 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:29:26,577 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:29:26,577 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:29:26,577 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:29:26,731 - INFO - 127.0.0.1 - - [20/Nov/2024 14:29:26] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 14:29:38,232 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 14:29:38,532 - WARNING -  * Debugger is active!
+2024-11-20 14:29:38,534 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 14:29:40,336 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 14:29:40,377 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:29:40,378 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 14:29:40,378 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 14:29:40,497 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:29:40,497 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:29:40,497 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:29:40,558 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:29:40,558 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:29:40,558 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:29:40,624 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:29:40,624 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:29:40,625 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:29:40,762 - INFO - 127.0.0.1 - - [20/Nov/2024 14:29:40] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 14:30:03,818 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 14:30:04,119 - WARNING -  * Debugger is active!
+2024-11-20 14:30:04,120 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 14:30:17,121 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 14:30:17,163 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:30:17,163 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 14:30:17,163 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 14:30:17,290 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:30:17,290 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:30:17,290 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:30:17,343 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:30:17,343 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:30:17,343 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:30:17,408 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:30:17,408 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:30:17,408 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:30:17,532 - INFO - 127.0.0.1 - - [20/Nov/2024 14:30:17] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 14:32:11,587 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 14:32:11,913 - WARNING -  * Debugger is active!
+2024-11-20 14:32:11,915 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 14:32:14,338 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 14:32:14,377 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:32:14,377 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 14:32:14,377 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 14:32:14,496 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:32:14,496 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:32:14,496 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:32:14,510 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:32:14,510 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:32:14,510 - DEBUG - STREAM b'IDAT' 62 453
+2024-11-20 14:32:14,524 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:32:14,524 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:32:14,524 - DEBUG - STREAM b'IDAT' 62 456
+2024-11-20 14:32:14,587 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:32:14,587 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:32:14,587 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:32:14,603 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:32:14,603 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:32:14,603 - DEBUG - STREAM b'IDAT' 62 453
+2024-11-20 14:32:14,620 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:32:14,620 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:32:14,620 - DEBUG - STREAM b'IDAT' 62 456
+2024-11-20 14:32:14,685 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:32:14,685 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:32:14,685 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:32:14,702 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:32:14,702 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:32:14,702 - DEBUG - STREAM b'IDAT' 62 453
+2024-11-20 14:32:14,718 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:32:14,718 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:32:14,718 - DEBUG - STREAM b'IDAT' 62 456
+2024-11-20 14:32:14,864 - INFO - 127.0.0.1 - - [20/Nov/2024 14:32:14] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 14:32:38,229 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 14:32:38,535 - WARNING -  * Debugger is active!
+2024-11-20 14:32:38,537 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 14:32:39,775 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 14:32:39,823 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:32:39,823 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 14:32:39,824 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 14:32:39,928 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:32:39,929 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:32:39,929 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:32:39,945 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:32:39,946 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:32:39,946 - DEBUG - STREAM b'IDAT' 62 453
+2024-11-20 14:32:39,961 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:32:39,962 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:32:39,962 - DEBUG - STREAM b'IDAT' 62 456
+2024-11-20 14:32:40,014 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:32:40,014 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:32:40,014 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:32:40,028 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:32:40,028 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:32:40,028 - DEBUG - STREAM b'IDAT' 62 453
+2024-11-20 14:32:40,044 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:32:40,044 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:32:40,045 - DEBUG - STREAM b'IDAT' 62 456
+2024-11-20 14:32:40,109 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:32:40,109 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:32:40,109 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:32:40,124 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:32:40,125 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:32:40,125 - DEBUG - STREAM b'IDAT' 62 453
+2024-11-20 14:32:40,137 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:32:40,137 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:32:40,137 - DEBUG - STREAM b'IDAT' 62 456
+2024-11-20 14:32:40,298 - INFO - 127.0.0.1 - - [20/Nov/2024 14:32:40] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 14:32:57,777 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 14:32:58,132 - WARNING -  * Debugger is active!
+2024-11-20 14:32:58,134 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 14:33:00,167 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 14:33:00,209 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:33:00,209 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 14:33:00,209 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 14:33:00,323 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:33:00,323 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:33:00,323 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:33:00,335 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:33:00,335 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:33:00,335 - DEBUG - STREAM b'IDAT' 62 453
+2024-11-20 14:33:00,345 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:33:00,345 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:33:00,345 - DEBUG - STREAM b'IDAT' 62 456
+2024-11-20 14:33:00,402 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:33:00,402 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:33:00,402 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:33:00,414 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:33:00,414 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:33:00,414 - DEBUG - STREAM b'IDAT' 62 453
+2024-11-20 14:33:00,428 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:33:00,428 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:33:00,428 - DEBUG - STREAM b'IDAT' 62 456
+2024-11-20 14:33:00,489 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:33:00,489 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:33:00,489 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:33:00,497 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:33:00,497 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:33:00,497 - DEBUG - STREAM b'IDAT' 62 453
+2024-11-20 14:33:00,511 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:33:00,511 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:33:00,511 - DEBUG - STREAM b'IDAT' 62 456
+2024-11-20 14:33:00,659 - INFO - 127.0.0.1 - - [20/Nov/2024 14:33:00] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 14:33:23,425 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 14:33:23,746 - WARNING -  * Debugger is active!
+2024-11-20 14:33:23,748 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 14:33:25,921 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 14:33:25,963 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:33:25,963 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 14:33:25,963 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 14:33:26,096 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:33:26,097 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:33:26,097 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:33:26,107 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:33:26,107 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:33:26,107 - DEBUG - STREAM b'IDAT' 62 453
+2024-11-20 14:33:26,123 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:33:26,123 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:33:26,123 - DEBUG - STREAM b'IDAT' 62 456
+2024-11-20 14:33:26,187 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:33:26,187 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:33:26,187 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:33:26,200 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:33:26,200 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:33:26,200 - DEBUG - STREAM b'IDAT' 62 453
+2024-11-20 14:33:26,215 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:33:26,215 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:33:26,215 - DEBUG - STREAM b'IDAT' 62 456
+2024-11-20 14:33:26,271 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:33:26,271 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:33:26,271 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:33:26,288 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:33:26,288 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:33:26,288 - DEBUG - STREAM b'IDAT' 62 453
+2024-11-20 14:33:26,303 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:33:26,303 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:33:26,303 - DEBUG - STREAM b'IDAT' 62 456
+2024-11-20 14:33:26,449 - INFO - 127.0.0.1 - - [20/Nov/2024 14:33:26] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 14:34:18,312 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 14:34:18,618 - WARNING -  * Debugger is active!
+2024-11-20 14:34:18,620 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 14:34:24,885 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 14:34:24,926 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:34:24,926 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 14:34:24,926 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 14:34:25,042 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:34:25,043 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:34:25,043 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:34:25,055 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:34:25,056 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:34:25,056 - DEBUG - STREAM b'IDAT' 62 453
+2024-11-20 14:34:25,067 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:34:25,067 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:34:25,067 - DEBUG - STREAM b'IDAT' 62 456
+2024-11-20 14:34:25,109 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:34:25,109 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:34:25,109 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:34:25,119 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:34:25,119 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:34:25,119 - DEBUG - STREAM b'IDAT' 62 453
+2024-11-20 14:34:25,133 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:34:25,133 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:34:25,133 - DEBUG - STREAM b'IDAT' 62 456
+2024-11-20 14:34:25,185 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:34:25,185 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:34:25,185 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:34:25,199 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:34:25,200 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:34:25,200 - DEBUG - STREAM b'IDAT' 62 453
+2024-11-20 14:34:25,208 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:34:25,208 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:34:25,208 - DEBUG - STREAM b'IDAT' 62 456
+2024-11-20 14:34:25,336 - INFO - 127.0.0.1 - - [20/Nov/2024 14:34:25] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 14:35:00,065 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 14:35:00,392 - WARNING -  * Debugger is active!
+2024-11-20 14:35:00,394 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 14:35:02,088 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 14:35:02,133 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:35:02,133 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 14:35:02,133 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 14:35:02,241 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:35:02,241 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:35:02,241 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:35:02,256 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:35:02,256 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:35:02,256 - DEBUG - STREAM b'IDAT' 62 453
+2024-11-20 14:35:02,270 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:35:02,270 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:35:02,270 - DEBUG - STREAM b'IDAT' 62 456
+2024-11-20 14:35:02,316 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:35:02,316 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:35:02,316 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:35:02,328 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:35:02,328 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:35:02,328 - DEBUG - STREAM b'IDAT' 62 453
+2024-11-20 14:35:02,336 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:35:02,336 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:35:02,336 - DEBUG - STREAM b'IDAT' 62 456
+2024-11-20 14:35:02,388 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:35:02,388 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:35:02,388 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:35:02,398 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:35:02,399 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:35:02,399 - DEBUG - STREAM b'IDAT' 62 453
+2024-11-20 14:35:02,412 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:35:02,412 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:35:02,412 - DEBUG - STREAM b'IDAT' 62 456
+2024-11-20 14:35:02,531 - INFO - 127.0.0.1 - - [20/Nov/2024 14:35:02] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 14:36:28,468 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 14:36:28,785 - WARNING -  * Debugger is active!
+2024-11-20 14:36:28,787 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 14:36:32,263 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 14:36:32,305 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:36:32,305 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 14:36:32,306 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 14:36:32,426 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:36:32,426 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:36:32,426 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:36:32,439 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:36:32,439 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:36:32,439 - DEBUG - STREAM b'IDAT' 62 453
+2024-11-20 14:36:32,450 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:36:32,450 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:36:32,450 - DEBUG - STREAM b'IDAT' 62 456
+2024-11-20 14:36:32,499 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:36:32,499 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:36:32,500 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:36:32,512 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:36:32,512 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:36:32,512 - DEBUG - STREAM b'IDAT' 62 453
+2024-11-20 14:36:32,525 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:36:32,525 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:36:32,525 - DEBUG - STREAM b'IDAT' 62 456
+2024-11-20 14:36:32,574 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:36:32,574 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:36:32,574 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:36:32,586 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:36:32,586 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:36:32,586 - DEBUG - STREAM b'IDAT' 62 453
+2024-11-20 14:36:32,594 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:36:32,594 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:36:32,594 - DEBUG - STREAM b'IDAT' 62 456
+2024-11-20 14:36:32,642 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:36:32,642 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:36:32,642 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:36:32,651 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:36:32,651 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:36:32,651 - DEBUG - STREAM b'IDAT' 62 453
+2024-11-20 14:36:32,659 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:36:32,660 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:36:32,660 - DEBUG - STREAM b'IDAT' 62 456
+2024-11-20 14:36:32,708 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:36:32,708 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:36:32,708 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:36:32,721 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:36:32,721 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:36:32,721 - DEBUG - STREAM b'IDAT' 62 453
+2024-11-20 14:36:32,734 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:36:32,734 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:36:32,734 - DEBUG - STREAM b'IDAT' 62 456
+2024-11-20 14:36:32,782 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:36:32,782 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:36:32,783 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:36:32,794 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:36:32,794 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:36:32,794 - DEBUG - STREAM b'IDAT' 62 453
+2024-11-20 14:36:32,807 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:36:32,807 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:36:32,807 - DEBUG - STREAM b'IDAT' 62 456
+2024-11-20 14:36:32,810 - INFO - 127.0.0.1 - - [20/Nov/2024 14:36:32] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 14:39:25,774 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 14:39:26,091 - WARNING -  * Debugger is active!
+2024-11-20 14:39:26,092 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 14:39:31,422 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 14:39:31,470 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:39:31,470 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 14:39:31,470 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 14:39:31,572 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:39:31,572 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:39:31,572 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:39:31,587 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:39:31,587 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:39:31,587 - DEBUG - STREAM b'IDAT' 62 453
+2024-11-20 14:39:31,599 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:39:31,599 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:39:31,599 - DEBUG - STREAM b'IDAT' 62 456
+2024-11-20 14:39:31,656 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:39:31,656 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:39:31,657 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:39:31,669 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:39:31,670 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:39:31,670 - DEBUG - STREAM b'IDAT' 62 453
+2024-11-20 14:39:31,683 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:39:31,683 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:39:31,683 - DEBUG - STREAM b'IDAT' 62 456
+2024-11-20 14:39:31,741 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:39:31,742 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:39:31,742 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:39:31,755 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:39:31,755 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:39:31,755 - DEBUG - STREAM b'IDAT' 62 453
+2024-11-20 14:39:31,764 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:39:31,765 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:39:31,765 - DEBUG - STREAM b'IDAT' 62 456
+2024-11-20 14:39:31,818 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:39:31,818 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:39:31,818 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:39:31,832 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:39:31,832 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:39:31,832 - DEBUG - STREAM b'IDAT' 62 453
+2024-11-20 14:39:31,846 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:39:31,846 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:39:31,846 - DEBUG - STREAM b'IDAT' 62 456
+2024-11-20 14:39:31,916 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:39:31,916 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:39:31,916 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:39:31,924 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:39:31,925 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:39:31,925 - DEBUG - STREAM b'IDAT' 62 453
+2024-11-20 14:39:31,938 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:39:31,939 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:39:31,939 - DEBUG - STREAM b'IDAT' 62 456
+2024-11-20 14:39:31,999 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:39:31,999 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:39:32,000 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:39:32,015 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:39:32,015 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:39:32,015 - DEBUG - STREAM b'IDAT' 62 453
+2024-11-20 14:39:32,025 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:39:32,025 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:39:32,025 - DEBUG - STREAM b'IDAT' 62 456
+2024-11-20 14:39:32,027 - INFO - 127.0.0.1 - - [20/Nov/2024 14:39:32] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 14:46:04,697 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 14:46:04,737 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:46:04,738 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 14:46:04,738 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 14:46:04,846 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:46:04,846 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:46:04,846 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:46:04,854 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:46:04,854 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:46:04,854 - DEBUG - STREAM b'IDAT' 62 453
+2024-11-20 14:46:04,864 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:46:04,865 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:46:04,865 - DEBUG - STREAM b'IDAT' 62 456
+2024-11-20 14:46:04,905 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:46:04,905 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:46:04,905 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:46:04,917 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:46:04,917 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:46:04,917 - DEBUG - STREAM b'IDAT' 62 453
+2024-11-20 14:46:04,927 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:46:04,927 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:46:04,927 - DEBUG - STREAM b'IDAT' 62 456
+2024-11-20 14:46:04,972 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:46:04,972 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:46:04,972 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:46:04,981 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:46:04,981 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:46:04,981 - DEBUG - STREAM b'IDAT' 62 453
+2024-11-20 14:46:04,992 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:46:04,992 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:46:04,992 - DEBUG - STREAM b'IDAT' 62 456
+2024-11-20 14:46:05,042 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:46:05,042 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:46:05,042 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:46:05,051 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:46:05,051 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:46:05,051 - DEBUG - STREAM b'IDAT' 62 453
+2024-11-20 14:46:05,063 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:46:05,063 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:46:05,063 - DEBUG - STREAM b'IDAT' 62 456
+2024-11-20 14:46:05,101 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:46:05,101 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:46:05,101 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:46:05,114 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:46:05,114 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:46:05,114 - DEBUG - STREAM b'IDAT' 62 453
+2024-11-20 14:46:05,123 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:46:05,123 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:46:05,123 - DEBUG - STREAM b'IDAT' 62 456
+2024-11-20 14:46:05,162 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:46:05,162 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:46:05,162 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:46:05,170 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:46:05,170 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:46:05,170 - DEBUG - STREAM b'IDAT' 62 453
+2024-11-20 14:46:05,180 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:46:05,180 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:46:05,180 - DEBUG - STREAM b'IDAT' 62 456
+2024-11-20 14:46:05,182 - INFO - 127.0.0.1 - - [20/Nov/2024 14:46:05] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 14:46:13,698 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 14:46:14,024 - WARNING -  * Debugger is active!
+2024-11-20 14:46:14,025 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 14:52:10,318 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 14:52:10,374 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:52:10,374 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 14:52:10,374 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 14:52:10,491 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:52:10,491 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:52:10,491 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:52:10,506 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:52:10,506 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:52:10,506 - DEBUG - STREAM b'IDAT' 62 453
+2024-11-20 14:52:10,522 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:52:10,522 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:52:10,522 - DEBUG - STREAM b'IDAT' 62 456
+2024-11-20 14:52:10,567 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:52:10,567 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:52:10,567 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:52:10,579 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:52:10,579 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:52:10,579 - DEBUG - STREAM b'IDAT' 62 453
+2024-11-20 14:52:10,587 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:52:10,587 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:52:10,587 - DEBUG - STREAM b'IDAT' 62 456
+2024-11-20 14:52:10,644 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:52:10,644 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:52:10,644 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:52:10,652 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:52:10,652 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:52:10,652 - DEBUG - STREAM b'IDAT' 62 453
+2024-11-20 14:52:10,666 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:52:10,666 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:52:10,666 - DEBUG - STREAM b'IDAT' 62 456
+2024-11-20 14:52:10,723 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:52:10,723 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:52:10,724 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:52:10,739 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:52:10,740 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:52:10,740 - DEBUG - STREAM b'IDAT' 62 453
+2024-11-20 14:52:10,748 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:52:10,748 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:52:10,748 - DEBUG - STREAM b'IDAT' 62 456
+2024-11-20 14:52:10,795 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:52:10,795 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:52:10,795 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:52:10,803 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:52:10,803 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:52:10,803 - DEBUG - STREAM b'IDAT' 62 453
+2024-11-20 14:52:10,817 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:52:10,817 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:52:10,817 - DEBUG - STREAM b'IDAT' 62 456
+2024-11-20 14:52:10,865 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:52:10,865 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:52:10,865 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:52:10,875 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:52:10,875 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:52:10,875 - DEBUG - STREAM b'IDAT' 62 453
+2024-11-20 14:52:10,890 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:52:10,890 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:52:10,890 - DEBUG - STREAM b'IDAT' 62 456
+2024-11-20 14:52:10,902 - INFO - 127.0.0.1 - - [20/Nov/2024 14:52:10] "POST /crearImagen HTTP/1.1" 200 -
+2024-11-20 14:53:40,837 - INFO -  * Detected change in 'C:\\xampp\\htdocs\\MarketingVip\\api_generar_img\\app\\services.py', reloading
+2024-11-20 14:53:41,174 - WARNING -  * Debugger is active!
+2024-11-20 14:53:41,176 - INFO -  * Debugger PIN: 126-515-026
+2024-11-20 14:53:52,912 - INFO - Realizando servicio de creacion de pdf
+2024-11-20 14:53:52,970 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:53:52,970 - DEBUG - STREAM b'tEXt' 41 25
+2024-11-20 14:53:52,970 - DEBUG - STREAM b'IDAT' 78 484
+2024-11-20 14:53:53,116 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:53:53,116 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:53:53,116 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:53:53,128 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:53:53,128 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:53:53,128 - DEBUG - STREAM b'IDAT' 62 453
+2024-11-20 14:53:53,141 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:53:53,141 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:53:53,141 - DEBUG - STREAM b'IDAT' 62 456
+2024-11-20 14:53:53,201 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:53:53,201 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:53:53,201 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:53:53,210 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:53:53,210 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:53:53,210 - DEBUG - STREAM b'IDAT' 62 453
+2024-11-20 14:53:53,224 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:53:53,224 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:53:53,224 - DEBUG - STREAM b'IDAT' 62 456
+2024-11-20 14:53:53,267 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:53:53,267 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:53:53,267 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:53:53,278 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:53:53,278 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:53:53,278 - DEBUG - STREAM b'IDAT' 62 453
+2024-11-20 14:53:53,293 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:53:53,293 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:53:53,294 - DEBUG - STREAM b'IDAT' 62 456
+2024-11-20 14:53:53,357 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:53:53,358 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:53:53,358 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:53:53,370 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:53:53,370 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:53:53,370 - DEBUG - STREAM b'IDAT' 62 453
+2024-11-20 14:53:53,384 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:53:53,384 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:53:53,384 - DEBUG - STREAM b'IDAT' 62 456
+2024-11-20 14:53:53,449 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:53:53,449 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:53:53,449 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:53:53,465 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:53:53,465 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:53:53,465 - DEBUG - STREAM b'IDAT' 62 453
+2024-11-20 14:53:53,474 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:53:53,474 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:53:53,474 - DEBUG - STREAM b'IDAT' 62 456
+2024-11-20 14:53:53,516 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:53:53,516 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:53:53,516 - DEBUG - STREAM b'IDAT' 62 282
+2024-11-20 14:53:53,524 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:53:53,525 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:53:53,525 - DEBUG - STREAM b'IDAT' 62 453
+2024-11-20 14:53:53,533 - DEBUG - STREAM b'IHDR' 16 13
+2024-11-20 14:53:53,533 - DEBUG - STREAM b'pHYs' 41 9
+2024-11-20 14:53:53,533 - DEBUG - STREAM b'IDAT' 62 456
+2024-11-20 14:53:53,544 - INFO - 127.0.0.1 - - [20/Nov/2024 14:53:53] "POST /crearImagen HTTP/1.1" 200 -
